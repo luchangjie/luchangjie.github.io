@@ -6,13 +6,14 @@
 - 🔭 目前正在学习：AI 工具应用 / C++和Python进阶 / Linux命令 / vrm格式的虚拟数字人
 - 🌱 兴趣爱好：建模与3D打印、学习各种新东西、探索ai如何才能更像人、各种语音克隆tts
 - 📫 怎么联系我：luchangjie630@outlook.com
-- 我的主页[点击访问](https://github.com/luchangjie)
+- 我的github主页：[https://github.com/luchangjie](https://github.com/luchangjie)
 ---
 
 ### 🛠 我的技能栈
 - **语言**：[熟练]C++，[能看懂]Python，Java，Javascript，CUDA，WinAPI
 - **工具**：VSCode, VisualStudio, Git, GitHub, WorkBuddy, ChatGPT, Blender
 - **其他**：调用大模型的API（比较常用硅基流动、DeepSeek），CMD命令行，利用Ollama本地部署小参数模型
+  
 ---
 
 ### 🚀 我的项目
