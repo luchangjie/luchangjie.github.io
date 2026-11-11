@@ -18,7 +18,7 @@
 ### 🚀 我的项目
 | 项目名称 | 项目介绍 | 链接 |
 
-| 3DViewer | 一款基于CUDA的自主实现的obj查看与体素化器 | [点击访问](https://github.com/luchangjie/3DViewer) |
+| 3DViewer | 一款基于CUDA的自主实现的obj查看与体素化器 | [点击访问](https://luchangjie.github.io/3DViewer/) |
 
 ---
 *感谢访问我的主页！(正在努力给这个页面加字数...)*
