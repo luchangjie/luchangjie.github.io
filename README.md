@@ -6,7 +6,7 @@
 - 🔭 目前正在学习：AI 工具应用 / C++和Python进阶 / Linux命令 / vrm格式的虚拟数字人
 - 🌱 兴趣爱好：建模与3D打印、学习各种新东西、探索ai如何才能更像人、各种语音克隆tts
 - 📫 怎么联系我：luchangjie630@outlook.com
-
+- 我的主页[点击访问](https://github.com/luchangjie)
 ---
 
 ### 🛠 我的技能栈
