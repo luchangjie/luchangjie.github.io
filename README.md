@@ -1,16 +1,25 @@
-## Hi there 👋
+# 嗨，我是 路长嗟 👋
 
-<!--
-**luchangjie/luchangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 个性标签：信奉不与现实接轨的虚拟将毫无意义
+> 正在努力给这个页面加字数...
 
-Here are some ideas to get you started:
+### 👨‍💻 关于我
+- 🔭 目前正在学习：AI 工具应用 / C++和Python进阶 / Linux命令 / vrm格式的虚拟数字人
+- 🌱 兴趣爱好：建模与3D打印、学习各种新东西、探索ai如何才能更像人、各种语音克隆tts
+- 📫 怎么联系我：[luchangjie630@outlook.com](luchangjie630@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 我的技能栈
+- **语言**：[熟练]C++，[能看懂]Python，Java，Javascript，CUDA，WinAPI
+- **工具**：VSCode, VisualStudio, Git, GitHub, WorkBuddy, ChatGPT, Blender
+- **其他**：调用大模型的API（比较常用硅基流动、DeepSeek），CMD命令行，利用ollama本地部署小参数模型
+---
+
+### 🚀 我的项目
+| 项目名称 | 项目介绍 | 链接 |
+| 3DViewer | 一款基于CUDA的obj查看与体素化器 | [点击访问](https://github.com/luchangjie/3DViewer) |
+| **个人主页** | 使用 GitHub Pages 搭建的展示页 | [点击访问](https://luchangjie.github.io/luchangjie/) |
+
+---
+*感谢访问我的主页！*
